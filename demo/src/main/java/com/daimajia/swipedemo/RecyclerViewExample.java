@@ -63,7 +63,7 @@ public class RecyclerViewExample extends Activity {
         recyclerView.setAdapter(mAdapter);
 
         /* Listeners */
-        recyclerView.setOnScrollListener(onScrollListener);
+        //recyclerView.setOnScrollListener(onScrollListener);
     }
 
     /**
